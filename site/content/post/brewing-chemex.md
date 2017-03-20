@@ -1,5 +1,5 @@
 ---
-title: A beginners’ guide to brewing with Chemex
+title: 'A beginners’ '
 categories:
   - adf
   - asdf
