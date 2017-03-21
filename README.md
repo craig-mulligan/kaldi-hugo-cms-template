@@ -1,7 +1,5 @@
 # Netlify CMS small-business template
 
-[emoji]({code: "fire", size: 35})
-
 This is a small business template built with [Victor Hugo](https://github.com/netlify/victor-hugo) and [Netlify CMS](https://github.com/netlify/netlify-cms).
 
 ## Getting started
